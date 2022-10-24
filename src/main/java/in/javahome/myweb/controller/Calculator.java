@@ -12,8 +12,7 @@ public class Calculator {
 		String s = null;
 		s.toString();
 		return i+j;
-		s.toString();
-		return i+j;
+		
 	}
 	public int multiply(int i, int j){
 		return i*j;
